@@ -1,4 +1,4 @@
-# Laravel 6 伺服器計時
+# Laravel 7 伺服器計時
 
 引入 beyondcode 的 laravel-server-timing 套件來擴增實作伺服器計時，可以監控伺服器端性能情況。Server Timing 標頭提供了一種離散且方便的方式，可以將伺服器端服務器性能計時與瀏覽器中的開發人員工具進行通信。
 
