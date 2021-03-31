@@ -12,7 +12,7 @@ $ git clone
 ```sh
 $ composer install
 ```
-- 產⽣ Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
+- 產生 Laravel 要使用的一組 32 字元長度的隨機字串 APP_KEY 並存在 .env 內。
 ```sh
 $ php artisan key:generate
 ```
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/HkJk1S3.png)
+![](https://i.imgur.com/ld8uPtl.png)
 > 如果不能測量某些工作的速度，我們無法判斷所做的改變是改善性能，沒有效果，甚至是使事情變得更糟。注意別暴露敏感機密資訊
