@@ -1,4 +1,4 @@
-# Laravel 11 伺服器計時
+# Laravel 12 伺服器計時
 
 引入 beyondcode 的 laravel-server-timing 套件來擴增實作伺服器計時，可以監控伺服器端性能情況。Server Timing 標頭提供了一種離散且方便的方式，可以將伺服器端服務器性能計時與瀏覽器中的開發人員工具進行通信。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/wE5ZMc9.png)
+![](https://i.imgur.com/18CbEPE.png)
 > 如果不能測量某些工作的速度，我們無法判斷所做的改變是改善性能，沒有效果，甚至是使事情變得更糟。注意別暴露敏感機密資訊

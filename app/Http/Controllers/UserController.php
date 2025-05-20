@@ -8,6 +8,9 @@ use BeyondCode\ServerTiming\Facades\ServerTiming;
 
 class UserController extends Controller
 {
+    /**
+     * Display a listing of the resource.
+     */
     public function index()
     {
         $task = 'Running User query';
